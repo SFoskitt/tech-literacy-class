@@ -7,7 +7,7 @@
 
 Thursdays:
 
-Week 1 - 2025-07-10 - Android basics (maybe some iPhone if any iPhone users want help too)
+~~Week 1 - 2025-07-10 - Android basics (maybe some iPhone if any iPhone users want help too)~~
 
 Week 2 - 2025-07-17 - Email - sign-up and basics (contacts, drafts, delete, send, etc.)
 
